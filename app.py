@@ -2,10 +2,8 @@
 
 print "codigo 2"
 
-print "teste 123"
+print " dasdsadad"
 
-print "cabelo"
+print "ola"
 
-print "asdasdadsadsa"
-
-print "eaqeqkdsasjdasdja"
+print "teste"
